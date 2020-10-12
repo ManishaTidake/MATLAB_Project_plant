@@ -1,0 +1,2 @@
+clearvars
+A = 15
